@@ -32,8 +32,10 @@
 * **Databases:** MongoDB, PostgreSQL, MySQL, Elasticsearch
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncashish06&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ncashish06" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncashish06&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ncashish06" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncashish06&theme=vision-friendly-dark" alt="ncashish06" />
-</p>
+<div align="center">
+
+| Top Languages | Profile Stats | Contribution Streak |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncashish06&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" width="300" /> | <img src="https://github-readme-stats.vercel.app/api?username=ncashish06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncashish06&theme=vision-friendly-dark&hide_border=true" width="400" /> |
+
+</div>
