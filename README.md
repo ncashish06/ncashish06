@@ -20,22 +20,18 @@
 <h3 align="left">Technical Ecosystem:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,go,java,cpp,c,solidity,nodejs,express,tensorflow,pytorch,sklearn,flask,mongodb,postgres,mysql,elasticsearch,azure,docker,kubernetes,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,js,go,java,cpp,c,nodejs,express,tensorflow,pytorch,sklearn,flask,mongodb,postgres,mysql,elasticsearch,azure,docker,kubernetes,linux,git,bash" />
   </a>
 </p>
 
-<h3 align="left">Cloud, DevOps & Security:</h3>
+<h3 align="left">Skills:</h3>
 
-* **Cloud:** Azure (Blob Storage, Functions, Key Vault)
-* **DevOps:** Docker, Kubernetes, CI/CD (Bamboo, Octopus, Rancher), Git
-* **Security:** Coverity, BlackDuck, Prisma Cloud (Twistlock), HashiCorp Vault
+* **Languages:** Python, JavaScript, Go, Java, C++, C, SQL
+* **Frameworks/Libraries:** Node.js, Express.js, PyTorch, TensorFlow, Scikit-learn, CUDA, OpenCV, Jest, Hyperledger Fabric
+* **Cloud & DevOps:** Azure (Blob Storage, Serverless Functions, Key Vault), Docker, Kubernetes, Git, Bitbucket, CI/CD (Bamboo, Artifactory, Octopus, Rancher), Linux, Shell Scripting
+* **Security tools:** Coverity, BlackDuck, Twistlock (Prisma Cloud), Burp Suite, Qualys, HashiCorp Vault
 * **Databases:** MongoDB, PostgreSQL, MySQL, Elasticsearch
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center">
-
-| Top Languages | Profile Stats | Contribution Streak |
-| :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncashish06&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" width="300" /> | <img src="https://github-readme-stats.vercel.app/api?username=ncashish06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncashish06&theme=vision-friendly-dark&hide_border=true" width="400" /> |
-
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncashish06&layout=compact" alt="ncashish06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncashish06&" alt="ncashish06" /></p>
