@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ncashish06&label=Profile%20views&color=0e75b6&style=flat" alt="ncashish06" /> 
 </p>
 
-- 🎓 **Education:** MS in Computer Science at ASU (GPA: 4.0/4.0) and B.Tech from NIT Warangal
+- 🎓 **Education:** Master of Science in Computer Science at ASU (GPA: 4.0/4.0) and Bachelor of Technology in Electronics and Communications Engineering from National Institute of Technology, Warangal
 - 🏢 **Industry:** Previously an **Advanced R&D Engineer** at **Honeywell**, architecting distributed digital record platforms using **Hyperledger Fabric**
 - 💡 **Innovation:** Inventor of a **U.S. Patent (US 12,386,486 B2)** for an interactive HMI framework
 - ⛓️ **Blockchain:** Experienced in **Hyperledger Fabric** and smart contract development in **Go**
